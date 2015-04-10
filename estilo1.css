@@ -7,7 +7,7 @@
             .jssora05ldn            (mousedown)
             .jssora05rdn            (mousedown)
             */
-            #image-gallery-with-vertical-thumbnail.source.jssora05l, #image-gallery-with-vertical-thumbnail.source.jssora05r, #image-gallery-with-vertical-thumbnail.source.jssora05ldn, #image-gallery-with-vertical-thumbnail.source.jssora05rdn
+            .source.jssora05l, .source.jssora05r, .source.jssora05ldn, .jssora05rdn
             {
             	position: absolute;
             	cursor: pointer;
@@ -15,9 +15,9 @@
                 background: url(../img/a17.png) no-repeat;
                 overflow:hidden;
             }
-            #image-gallery-with-vertical-thumbnail.source.jssora05l { background-position: -10px -40px; }
-            #image-gallery-with-vertical-thumbnail.source.jssora05r { background-position: -70px -40px; }
-            #image-gallery-with-vertical-thumbnail.source.jssora05l:hover { background-position: -130px -40px; }
-            #image-gallery-with-vertical-thumbnail.source.jssora05r:hover { background-position: -190px -40px; }
-            #image-gallery-with-vertical-thumbnail.source.jssora05ldn { background-position: -250px -40px; }
-            #image-gallery-with-vertical-thumbnail.source.jssora05rdn { background-position: -310px -40px; }
+            .jssora05l { background-position: -10px -40px; }
+            .jssora05r { background-position: -70px -40px; }
+            .jssora05l:hover { background-position: -130px -40px; }
+            .jssora05r:hover { background-position: -190px -40px; }
+            .jssora05ldn { background-position: -250px -40px; }
+            .jssora05rdn { background-position: -310px -40px; }
